@@ -1,2 +1,2 @@
-# webOS
+# webS
 Proyeccione temporale
